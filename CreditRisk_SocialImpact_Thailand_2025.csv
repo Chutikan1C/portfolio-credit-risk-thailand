@@ -1,0 +1,301 @@
+Customer_ID,Name,Age,Province,Occupation,Monthly_Income,Loan_Amount,Monthly_Payment,DPD,Late_Payments,Credit_Score,Loan_to_Income_Ratio,Default_Flag,Risk_Flag
+CUST0000,Siriporn,44,Chiang Mai,Office Worker,22221,39701,1766,35,2,713,1.79,0,Frequent Late Payments
+CUST0001,Kitti,54,Chonburi,Office Worker,10279,88300,4138,103,0,641,8.59,1,Severe Delinquency
+CUST0002,Wattana,44,Bangkok,Freelancer,54960,22674,9441,100,3,519,0.41,1,Severe Delinquency
+CUST0003,Kitti,48,Nakhon Ratchasima,Freelancer,16083,88560,3927,96,2,462,5.51,1,Severe Delinquency
+CUST0004,Kitti,37,Nakhon Ratchasima,Student,52861,28874,5280,35,4,519,0.55,0,Frequent Late Payments
+CUST0005,Somsri,37,Chiang Mai,Government Officer,26771,48642,2427,2,3,569,1.82,0,Frequent Late Payments
+CUST0006,Wattana,21,Bangkok,Office Worker,38975,70160,2856,72,4,699,1.8,0,Frequent Late Payments
+CUST0007,Wattana,54,Chiang Mai,Government Officer,54648,22602,5290,7,1,481,0.41,0,Normal
+CUST0008,Wattana,35,Khon Kaen,Government Officer,57285,93801,806,96,3,504,1.64,1,Severe Delinquency
+CUST0009,Kitti,60,Chiang Mai,Freelancer,28063,30931,8479,69,1,527,1.1,0,Normal
+CUST0010,Siriporn,55,Chiang Mai,Student,11106,99377,4165,40,3,549,8.95,0,Frequent Late Payments
+CUST0011,Wattana,52,Nakhon Ratchasima,Vendor,33557,34192,7557,102,3,740,1.02,1,Severe Delinquency
+CUST0012,Jirapha,23,Nakhon Ratchasima,Student,57854,51542,1161,67,1,832,0.89,0,Normal
+CUST0013,Kitti,52,Nakhon Ratchasima,Student,29607,47520,5144,12,2,495,1.61,0,Frequent Late Payments
+CUST0014,Somsri,33,Khon Kaen,Government Officer,46599,69772,9003,48,0,818,1.5,0,Normal
+CUST0015,Siriporn,40,Nakhon Ratchasima,Student,37529,63762,3420,59,4,369,1.7,0,Frequent Late Payments
+CUST0016,Jirapha,39,Bangkok,Office Worker,44954,55106,9774,1,3,698,1.23,0,Frequent Late Payments
+CUST0017,Jirapha,27,Chonburi,Government Officer,36856,86121,9446,59,4,502,2.34,0,Frequent Late Payments
+CUST0018,Somsri,26,Bangkok,Office Worker,11573,30559,6736,4,1,447,2.64,0,Normal
+CUST0019,Siriporn,22,Bangkok,Vendor,21808,38742,6578,43,4,771,1.78,0,Frequent Late Payments
+CUST0020,Kitti,36,Nakhon Ratchasima,Government Officer,44367,74669,852,26,1,498,1.68,0,Normal
+CUST0021,Somchai,52,Chonburi,Vendor,45801,85199,9594,31,4,725,1.86,0,Frequent Late Payments
+CUST0022,Siriporn,31,Chonburi,Government Officer,50196,26754,7505,20,0,791,0.53,0,Normal
+CUST0023,Somsri,41,Chonburi,Freelancer,43072,8972,658,7,0,441,0.21,0,Normal
+CUST0024,Jirapha,41,Khon Kaen,Student,32752,75831,1456,101,0,612,2.32,1,Severe Delinquency
+CUST0025,Kitti,49,Nakhon Ratchasima,Freelancer,26685,46873,2571,71,0,464,1.76,0,Normal
+CUST0026,Siriporn,57,Chonburi,Vendor,50401,99661,9095,49,0,613,1.98,0,Normal
+CUST0027,Somchai,57,Khon Kaen,Student,20372,14903,3953,66,0,320,0.73,0,Normal
+CUST0028,Somchai,64,Chiang Mai,Government Officer,17996,8020,7175,117,1,381,0.45,1,Severe Delinquency
+CUST0029,Wattana,27,Chiang Mai,Student,25458,46755,1455,43,3,430,1.84,0,Frequent Late Payments
+CUST0030,Wattana,46,Khon Kaen,Office Worker,40889,90956,6795,57,4,604,2.22,0,Frequent Late Payments
+CUST0031,Somsri,46,Khon Kaen,Student,35665,91988,2212,2,0,670,2.58,0,Normal
+CUST0032,Siriporn,53,Nakhon Ratchasima,Office Worker,47243,50648,5203,85,1,683,1.07,0,Normal
+CUST0033,Siriporn,40,Nakhon Ratchasima,Student,40653,14516,7063,69,1,744,0.36,0,Normal
+CUST0034,Jirapha,49,Chiang Mai,Office Worker,35657,7396,9965,1,1,724,0.21,0,Normal
+CUST0035,Jirapha,52,Chonburi,Vendor,48952,89082,6131,86,3,460,1.82,0,Frequent Late Payments
+CUST0036,Jirapha,47,Chiang Mai,Freelancer,31180,24129,1894,43,4,477,0.77,0,Frequent Late Payments
+CUST0037,Wattana,52,Chonburi,Government Officer,40896,6591,9961,1,3,789,0.16,0,Frequent Late Payments
+CUST0038,Siriporn,24,Chonburi,Student,21875,16303,5232,101,2,626,0.75,1,Severe Delinquency
+CUST0039,Siriporn,38,Nakhon Ratchasima,Freelancer,10622,35561,4214,80,1,588,3.35,0,Normal
+CUST0040,Somchai,23,Bangkok,Government Officer,57756,76719,1029,34,2,653,1.33,0,Frequent Late Payments
+CUST0041,Wattana,54,Bangkok,Government Officer,49809,97108,3458,97,0,327,1.95,1,Severe Delinquency
+CUST0042,Kitti,36,Khon Kaen,Office Worker,25725,91231,8404,86,0,342,3.55,0,Normal
+CUST0043,Wattana,63,Nakhon Ratchasima,Vendor,49760,12314,4091,29,3,722,0.25,0,Frequent Late Payments
+CUST0044,Kitti,47,Chonburi,Vendor,24646,24623,7395,115,4,476,1.0,1,Severe Delinquency
+CUST0045,Somchai,49,Bangkok,Freelancer,26029,72675,9631,7,2,828,2.79,0,Frequent Late Payments
+CUST0046,Somsri,48,Chonburi,Vendor,38402,70082,1025,21,4,793,1.82,0,Frequent Late Payments
+CUST0047,Siriporn,25,Bangkok,Student,13263,88624,6977,43,3,497,6.68,0,Frequent Late Payments
+CUST0048,Somchai,54,Bangkok,Vendor,39987,38130,501,57,0,816,0.95,0,Normal
+CUST0049,Siriporn,60,Bangkok,Freelancer,55828,56756,874,35,4,813,1.02,0,Frequent Late Payments
+CUST0050,Jirapha,56,Nakhon Ratchasima,Vendor,56924,31292,5148,68,4,321,0.55,0,Frequent Late Payments
+CUST0051,Somsri,43,Chiang Mai,Student,17646,91206,2865,76,0,411,5.17,0,Over-indebted
+CUST0052,Somsri,48,Chonburi,Office Worker,36529,74274,2025,92,2,356,2.03,1,Severe Delinquency
+CUST0053,Somchai,50,Nakhon Ratchasima,Freelancer,20664,7469,2146,30,0,365,0.36,0,Normal
+CUST0054,Somsri,54,Nakhon Ratchasima,Office Worker,44737,58947,513,46,4,397,1.32,0,Frequent Late Payments
+CUST0055,Kitti,52,Nakhon Ratchasima,Office Worker,44796,27534,5099,54,2,443,0.61,0,Frequent Late Payments
+CUST0056,Somsri,40,Nakhon Ratchasima,Office Worker,33027,68620,2778,79,2,734,2.08,0,Frequent Late Payments
+CUST0057,Siriporn,51,Nakhon Ratchasima,Government Officer,38373,53874,3655,105,0,385,1.4,1,Severe Delinquency
+CUST0058,Siriporn,42,Khon Kaen,Government Officer,45397,54708,8821,61,4,643,1.21,0,Frequent Late Payments
+CUST0059,Siriporn,52,Chonburi,Office Worker,29609,79553,4314,29,3,593,2.69,0,Frequent Late Payments
+CUST0060,Siriporn,22,Nakhon Ratchasima,Freelancer,44835,73344,3716,54,4,542,1.64,0,Frequent Late Payments
+CUST0061,Kitti,37,Chonburi,Student,47709,54138,8719,15,1,331,1.13,0,Normal
+CUST0062,Wattana,44,Khon Kaen,Student,59538,59302,2613,11,3,690,1.0,0,Frequent Late Payments
+CUST0063,Jirapha,61,Khon Kaen,Vendor,28250,52638,9944,16,2,576,1.86,0,Frequent Late Payments
+CUST0064,Somchai,50,Chonburi,Freelancer,30172,83249,4856,15,3,831,2.76,0,Frequent Late Payments
+CUST0065,Siriporn,22,Bangkok,Government Officer,20555,7719,6043,11,2,453,0.38,0,Frequent Late Payments
+CUST0066,Somsri,59,Chiang Mai,Office Worker,30874,27890,5055,7,2,682,0.9,0,Frequent Late Payments
+CUST0067,Siriporn,43,Bangkok,Vendor,22081,82236,7562,83,3,367,3.72,0,Frequent Late Payments
+CUST0068,Somsri,51,Bangkok,Student,33063,41509,3874,2,2,513,1.26,0,Frequent Late Payments
+CUST0069,Jirapha,41,Bangkok,Government Officer,15819,47534,6930,15,2,675,3.0,0,Frequent Late Payments
+CUST0070,Jirapha,42,Nakhon Ratchasima,Government Officer,34712,97241,3966,29,1,512,2.8,0,Normal
+CUST0071,Jirapha,21,Khon Kaen,Office Worker,33762,23787,3581,108,4,378,0.7,1,Severe Delinquency
+CUST0072,Somsri,46,Bangkok,Student,20046,53845,1129,22,4,680,2.69,0,Frequent Late Payments
+CUST0073,Siriporn,61,Khon Kaen,Freelancer,40463,62932,769,91,1,357,1.56,1,Severe Delinquency
+CUST0074,Jirapha,21,Chonburi,Government Officer,59485,97124,6224,114,3,325,1.63,1,Severe Delinquency
+CUST0075,Kitti,45,Chiang Mai,Office Worker,37769,96659,6397,103,0,746,2.56,1,Severe Delinquency
+CUST0076,Somsri,36,Chonburi,Freelancer,32150,38062,3932,117,0,365,1.18,1,Severe Delinquency
+CUST0077,Somsri,59,Chonburi,Student,11711,80713,9972,4,0,553,6.89,0,Over-indebted
+CUST0078,Siriporn,52,Nakhon Ratchasima,Government Officer,13853,92263,6776,83,1,343,6.66,0,Over-indebted
+CUST0079,Somsri,28,Chiang Mai,Freelancer,38077,65461,6395,103,1,396,1.72,1,Severe Delinquency
+CUST0080,Somsri,62,Chonburi,Freelancer,32863,80418,7615,119,2,526,2.45,1,Severe Delinquency
+CUST0081,Jirapha,58,Chonburi,Freelancer,30792,71672,7156,107,0,735,2.33,1,Severe Delinquency
+CUST0082,Siriporn,48,Chiang Mai,Government Officer,49483,39832,1075,64,3,678,0.8,0,Frequent Late Payments
+CUST0083,Jirapha,61,Chiang Mai,Government Officer,17942,36966,7529,29,3,477,2.06,0,Frequent Late Payments
+CUST0084,Jirapha,45,Chonburi,Vendor,57275,77545,6599,20,0,726,1.35,0,Normal
+CUST0085,Siriporn,54,Chiang Mai,Student,57594,17987,9999,83,0,606,0.31,0,Normal
+CUST0086,Somchai,44,Chonburi,Office Worker,10762,42311,3692,69,0,803,3.93,0,Normal
+CUST0087,Jirapha,43,Chonburi,Freelancer,40987,36575,3678,21,1,567,0.89,0,Normal
+CUST0088,Kitti,32,Nakhon Ratchasima,Vendor,24850,68852,6552,81,1,307,2.77,0,Normal
+CUST0089,Kitti,26,Bangkok,Office Worker,21112,6007,3234,71,1,807,0.28,0,Normal
+CUST0090,Somsri,55,Chonburi,Vendor,33058,75981,6616,102,4,775,2.3,1,Severe Delinquency
+CUST0091,Kitti,64,Khon Kaen,Government Officer,54420,81242,4068,31,3,596,1.49,0,Frequent Late Payments
+CUST0092,Somsri,39,Bangkok,Freelancer,47890,52517,2703,32,3,463,1.1,0,Frequent Late Payments
+CUST0093,Somchai,20,Bangkok,Office Worker,9481,34257,1890,116,2,784,3.61,1,Severe Delinquency
+CUST0094,Siriporn,27,Bangkok,Office Worker,56304,92272,2242,15,1,371,1.64,0,Normal
+CUST0095,Siriporn,35,Nakhon Ratchasima,Office Worker,41921,47207,2425,75,4,537,1.13,0,Frequent Late Payments
+CUST0096,Siriporn,33,Chonburi,Office Worker,49385,18281,1119,37,4,403,0.37,0,Frequent Late Payments
+CUST0097,Kitti,31,Nakhon Ratchasima,Office Worker,10524,66246,1774,115,3,509,6.29,1,Severe Delinquency
+CUST0098,Somchai,42,Chonburi,Vendor,43888,6435,1456,97,1,767,0.15,1,Severe Delinquency
+CUST0099,Kitti,34,Nakhon Ratchasima,Freelancer,24048,96357,2439,13,2,753,4.01,0,Frequent Late Payments
+CUST0100,Kitti,47,Nakhon Ratchasima,Government Officer,44111,31660,4453,35,1,567,0.72,0,Normal
+CUST0101,Somchai,53,Khon Kaen,Government Officer,46904,10084,1468,96,0,685,0.21,1,Severe Delinquency
+CUST0102,Somchai,21,Nakhon Ratchasima,Government Officer,43008,87197,9735,22,1,686,2.03,0,Normal
+CUST0103,Somchai,51,Chiang Mai,Government Officer,9060,18507,781,113,0,558,2.04,1,Severe Delinquency
+CUST0104,Somchai,42,Khon Kaen,Vendor,18130,77595,6762,108,0,582,4.28,1,Severe Delinquency
+CUST0105,Siriporn,41,Nakhon Ratchasima,Student,27023,88807,1558,65,2,339,3.29,0,Frequent Late Payments
+CUST0106,Wattana,44,Bangkok,Freelancer,54080,50539,4793,104,3,785,0.93,1,Severe Delinquency
+CUST0107,Wattana,41,Chiang Mai,Office Worker,22350,12491,5678,84,1,519,0.56,0,Normal
+CUST0108,Somchai,41,Chiang Mai,Student,33354,55192,7480,1,0,428,1.65,0,Normal
+CUST0109,Wattana,61,Chiang Mai,Government Officer,54186,85395,9700,90,1,819,1.58,1,Severe Delinquency
+CUST0110,Wattana,25,Khon Kaen,Student,37145,68888,1729,72,3,559,1.85,0,Frequent Late Payments
+CUST0111,Somchai,34,Nakhon Ratchasima,Freelancer,43020,78609,9727,64,3,665,1.83,0,Frequent Late Payments
+CUST0112,Wattana,62,Nakhon Ratchasima,Office Worker,29587,14077,5085,74,4,843,0.48,0,Frequent Late Payments
+CUST0113,Kitti,56,Bangkok,Office Worker,50131,25953,8967,66,3,823,0.52,0,Frequent Late Payments
+CUST0114,Somsri,52,Bangkok,Freelancer,18650,81919,3240,51,2,315,4.39,0,Frequent Late Payments
+CUST0115,Somsri,27,Chiang Mai,Freelancer,28933,72889,2789,61,0,428,2.52,0,Normal
+CUST0116,Somchai,63,Bangkok,Government Officer,29581,28821,1739,22,4,408,0.97,0,Frequent Late Payments
+CUST0117,Siriporn,63,Khon Kaen,Office Worker,32393,42567,5870,25,2,832,1.31,0,Frequent Late Payments
+CUST0118,Somchai,24,Nakhon Ratchasima,Student,32051,29860,625,67,1,568,0.93,0,Normal
+CUST0119,Siriporn,58,Chiang Mai,Vendor,35212,26195,7973,81,0,461,0.74,0,Normal
+CUST0120,Somsri,23,Bangkok,Vendor,58082,82475,9900,54,3,559,1.42,0,Frequent Late Payments
+CUST0121,Somchai,25,Khon Kaen,Freelancer,13090,95874,5842,5,0,401,7.32,0,Over-indebted
+CUST0122,Jirapha,64,Khon Kaen,Government Officer,15960,92266,7851,34,1,805,5.78,0,Over-indebted
+CUST0123,Kitti,51,Bangkok,Vendor,44772,26427,7138,21,4,546,0.59,0,Frequent Late Payments
+CUST0124,Wattana,49,Nakhon Ratchasima,Office Worker,30520,32083,7070,42,4,836,1.05,0,Frequent Late Payments
+CUST0125,Siriporn,54,Bangkok,Freelancer,58481,92046,3749,14,4,430,1.57,0,Frequent Late Payments
+CUST0126,Jirapha,59,Chiang Mai,Student,45408,62372,9610,85,3,652,1.37,0,Frequent Late Payments
+CUST0127,Wattana,35,Bangkok,Freelancer,37470,49064,8095,59,2,495,1.31,0,Frequent Late Payments
+CUST0128,Wattana,32,Khon Kaen,Student,29491,12813,6794,100,2,681,0.43,1,Severe Delinquency
+CUST0129,Somchai,61,Bangkok,Freelancer,10341,36598,7027,115,0,526,3.54,1,Severe Delinquency
+CUST0130,Wattana,49,Nakhon Ratchasima,Freelancer,53623,98106,6257,105,3,775,1.83,1,Severe Delinquency
+CUST0131,Kitti,38,Chonburi,Freelancer,33791,32082,2469,11,4,776,0.95,0,Frequent Late Payments
+CUST0132,Jirapha,36,Bangkok,Student,9338,34241,1391,110,4,564,3.67,1,Severe Delinquency
+CUST0133,Wattana,38,Nakhon Ratchasima,Student,14895,49569,4970,48,1,671,3.33,0,Normal
+CUST0134,Somchai,47,Nakhon Ratchasima,Freelancer,21254,16745,7675,41,1,785,0.79,0,Normal
+CUST0135,Kitti,45,Khon Kaen,Vendor,20344,31029,8820,37,4,733,1.53,0,Frequent Late Payments
+CUST0136,Somsri,56,Nakhon Ratchasima,Government Officer,10750,18025,9706,81,4,510,1.68,0,Frequent Late Payments
+CUST0137,Jirapha,45,Nakhon Ratchasima,Government Officer,11421,19288,7312,44,3,676,1.69,0,Frequent Late Payments
+CUST0138,Wattana,42,Nakhon Ratchasima,Government Officer,48887,94186,8019,34,2,694,1.93,0,Frequent Late Payments
+CUST0139,Somchai,28,Nakhon Ratchasima,Student,14319,11540,5112,29,1,749,0.81,0,Normal
+CUST0140,Somsri,31,Chiang Mai,Student,24896,86958,1698,87,2,663,3.49,0,Frequent Late Payments
+CUST0141,Somsri,20,Chiang Mai,Vendor,20918,73878,5738,105,3,756,3.53,1,Severe Delinquency
+CUST0142,Siriporn,20,Khon Kaen,Government Officer,34064,46846,6589,29,4,525,1.38,0,Frequent Late Payments
+CUST0143,Kitti,53,Bangkok,Government Officer,55617,80932,6757,77,2,430,1.46,0,Frequent Late Payments
+CUST0144,Wattana,51,Nakhon Ratchasima,Freelancer,36935,22482,8205,5,4,775,0.61,0,Frequent Late Payments
+CUST0145,Somchai,44,Bangkok,Student,46641,28411,4219,66,4,576,0.61,0,Frequent Late Payments
+CUST0146,Siriporn,59,Bangkok,Government Officer,38711,55975,802,79,0,455,1.45,0,Normal
+CUST0147,Kitti,64,Khon Kaen,Vendor,13806,65545,1486,6,2,517,4.75,0,Frequent Late Payments
+CUST0148,Siriporn,20,Nakhon Ratchasima,Vendor,50360,83797,4940,51,2,489,1.66,0,Frequent Late Payments
+CUST0149,Jirapha,35,Nakhon Ratchasima,Government Officer,21182,57307,5409,13,4,716,2.71,0,Frequent Late Payments
+CUST0150,Kitti,58,Chonburi,Student,31297,8093,3572,72,3,845,0.26,0,Frequent Late Payments
+CUST0151,Kitti,24,Bangkok,Vendor,28541,82258,3624,14,0,340,2.88,0,Normal
+CUST0152,Wattana,41,Bangkok,Freelancer,37921,27042,8625,20,4,606,0.71,0,Frequent Late Payments
+CUST0153,Kitti,48,Chiang Mai,Vendor,25774,57930,3791,34,1,637,2.25,0,Normal
+CUST0154,Siriporn,22,Chonburi,Office Worker,53813,49413,4533,65,1,613,0.92,0,Normal
+CUST0155,Kitti,31,Chiang Mai,Office Worker,46198,98623,5605,90,0,374,2.13,1,Severe Delinquency
+CUST0156,Wattana,45,Chiang Mai,Student,17820,38756,1203,1,3,578,2.17,0,Frequent Late Payments
+CUST0157,Wattana,35,Chiang Mai,Government Officer,33070,58268,8633,34,4,475,1.76,0,Frequent Late Payments
+CUST0158,Jirapha,56,Khon Kaen,Student,13232,44214,1074,81,2,572,3.34,0,Frequent Late Payments
+CUST0159,Siriporn,41,Khon Kaen,Student,20122,86871,6204,77,0,588,4.32,0,Normal
+CUST0160,Somsri,48,Chiang Mai,Student,24023,33602,8348,19,3,571,1.4,0,Frequent Late Payments
+CUST0161,Somsri,33,Chonburi,Student,17007,58331,5708,81,2,365,3.43,0,Frequent Late Payments
+CUST0162,Kitti,47,Bangkok,Freelancer,26905,53901,7424,9,1,782,2.0,0,Normal
+CUST0163,Jirapha,24,Chonburi,Freelancer,50786,68416,4328,24,1,547,1.35,0,Normal
+CUST0164,Somchai,49,Nakhon Ratchasima,Vendor,38398,37196,3730,65,2,455,0.97,0,Frequent Late Payments
+CUST0165,Kitti,24,Khon Kaen,Office Worker,43268,10626,988,24,0,346,0.25,0,Normal
+CUST0166,Jirapha,31,Bangkok,Student,15737,12424,7614,53,1,753,0.79,0,Normal
+CUST0167,Siriporn,35,Bangkok,Vendor,45062,17857,3673,32,4,500,0.4,0,Frequent Late Payments
+CUST0168,Siriporn,45,Nakhon Ratchasima,Office Worker,34510,24982,2167,35,2,423,0.72,0,Frequent Late Payments
+CUST0169,Siriporn,45,Nakhon Ratchasima,Government Officer,28426,81961,4614,94,2,300,2.88,1,Severe Delinquency
+CUST0170,Siriporn,40,Chiang Mai,Freelancer,46265,6980,4053,13,1,490,0.15,0,Normal
+CUST0171,Siriporn,58,Khon Kaen,Office Worker,26850,53290,8261,64,0,815,1.98,0,Normal
+CUST0172,Jirapha,55,Khon Kaen,Government Officer,9614,31431,1500,109,4,741,3.27,1,Severe Delinquency
+CUST0173,Jirapha,52,Chonburi,Office Worker,30776,89976,9542,79,0,442,2.92,0,Normal
+CUST0174,Wattana,49,Chiang Mai,Freelancer,33077,87711,1888,53,3,490,2.65,0,Frequent Late Payments
+CUST0175,Somsri,56,Chiang Mai,Freelancer,18374,31385,5950,109,3,832,1.71,1,Severe Delinquency
+CUST0176,Siriporn,42,Chiang Mai,Vendor,44435,43158,4212,51,1,526,0.97,0,Normal
+CUST0177,Somchai,29,Chiang Mai,Student,39907,28019,1867,2,1,612,0.7,0,Normal
+CUST0178,Jirapha,24,Khon Kaen,Office Worker,22409,23639,8689,98,1,601,1.05,1,Severe Delinquency
+CUST0179,Somchai,55,Khon Kaen,Office Worker,25514,90530,9513,40,3,759,3.55,0,Frequent Late Payments
+CUST0180,Somchai,53,Chiang Mai,Government Officer,38866,26563,954,5,0,700,0.68,0,Normal
+CUST0181,Somchai,50,Chonburi,Freelancer,11983,44341,3272,24,0,692,3.7,0,Normal
+CUST0182,Wattana,29,Bangkok,Office Worker,40705,10776,4226,12,1,506,0.26,0,Normal
+CUST0183,Jirapha,38,Bangkok,Freelancer,29662,41444,7732,116,4,509,1.4,1,Severe Delinquency
+CUST0184,Somchai,51,Chonburi,Office Worker,32510,73916,5306,97,0,414,2.27,1,Severe Delinquency
+CUST0185,Siriporn,20,Chiang Mai,Vendor,21651,13711,2690,7,3,550,0.63,0,Frequent Late Payments
+CUST0186,Kitti,24,Khon Kaen,Student,49998,79318,9608,20,2,518,1.59,0,Frequent Late Payments
+CUST0187,Somchai,64,Bangkok,Office Worker,37535,87970,3375,97,2,706,2.34,1,Severe Delinquency
+CUST0188,Wattana,23,Nakhon Ratchasima,Freelancer,15640,90553,6092,67,2,742,5.79,0,Frequent Late Payments
+CUST0189,Jirapha,35,Nakhon Ratchasima,Vendor,53547,35707,1940,24,4,653,0.67,0,Frequent Late Payments
+CUST0190,Wattana,43,Chonburi,Office Worker,24317,44110,9427,78,1,849,1.81,0,Normal
+CUST0191,Somchai,35,Chiang Mai,Government Officer,59072,66788,6559,67,3,441,1.13,0,Frequent Late Payments
+CUST0192,Jirapha,21,Bangkok,Student,16564,87879,7510,44,4,800,5.31,0,Frequent Late Payments
+CUST0193,Kitti,47,Chiang Mai,Office Worker,36345,43827,7617,59,3,846,1.21,0,Frequent Late Payments
+CUST0194,Somchai,51,Bangkok,Vendor,57288,10655,9653,11,3,841,0.19,0,Frequent Late Payments
+CUST0195,Wattana,46,Chonburi,Government Officer,37687,49859,3489,31,1,806,1.32,0,Normal
+CUST0196,Somsri,39,Chonburi,Vendor,22737,58625,9718,95,2,580,2.58,1,Severe Delinquency
+CUST0197,Siriporn,43,Nakhon Ratchasima,Vendor,18323,57098,6728,91,1,723,3.12,1,Severe Delinquency
+CUST0198,Wattana,31,Chiang Mai,Government Officer,24229,20251,6971,12,4,569,0.84,0,Frequent Late Payments
+CUST0199,Jirapha,54,Nakhon Ratchasima,Vendor,53481,5526,3363,30,4,453,0.1,0,Frequent Late Payments
+CUST0200,Somchai,52,Chiang Mai,Government Officer,17502,73760,1677,77,4,382,4.21,0,Frequent Late Payments
+CUST0201,Siriporn,52,Nakhon Ratchasima,Office Worker,9545,52837,5260,19,1,725,5.54,0,Over-indebted
+CUST0202,Somchai,62,Khon Kaen,Government Officer,46114,16536,511,17,3,574,0.36,0,Frequent Late Payments
+CUST0203,Jirapha,56,Khon Kaen,Government Officer,38430,33541,5752,92,3,583,0.87,1,Severe Delinquency
+CUST0204,Somchai,31,Khon Kaen,Student,18996,84083,4899,59,0,472,4.43,0,Normal
+CUST0205,Somsri,22,Khon Kaen,Government Officer,36788,56027,8734,62,4,626,1.52,0,Frequent Late Payments
+CUST0206,Siriporn,20,Bangkok,Government Officer,38969,39531,9635,5,3,362,1.01,0,Frequent Late Payments
+CUST0207,Siriporn,52,Khon Kaen,Office Worker,57543,13712,5945,31,0,372,0.24,0,Normal
+CUST0208,Jirapha,59,Chonburi,Student,22919,70455,7070,92,3,674,3.07,1,Severe Delinquency
+CUST0209,Somsri,29,Chonburi,Freelancer,12810,79744,9696,42,4,807,6.23,0,Frequent Late Payments
+CUST0210,Wattana,62,Bangkok,Office Worker,39586,10109,8712,1,2,697,0.26,0,Frequent Late Payments
+CUST0211,Somchai,63,Khon Kaen,Office Worker,48974,54268,906,59,4,419,1.11,0,Frequent Late Payments
+CUST0212,Kitti,48,Khon Kaen,Freelancer,50773,59615,9706,22,1,736,1.17,0,Normal
+CUST0213,Somchai,32,Khon Kaen,Government Officer,25371,87503,4931,82,3,764,3.45,0,Frequent Late Payments
+CUST0214,Somchai,31,Nakhon Ratchasima,Vendor,54084,34759,5743,30,3,585,0.64,0,Frequent Late Payments
+CUST0215,Wattana,50,Chiang Mai,Student,38629,90708,7042,114,1,564,2.35,1,Severe Delinquency
+CUST0216,Somchai,21,Nakhon Ratchasima,Vendor,17436,65112,7436,4,1,619,3.73,0,Normal
+CUST0217,Somsri,54,Chiang Mai,Freelancer,21984,31589,9406,82,2,675,1.44,0,Frequent Late Payments
+CUST0218,Somsri,42,Khon Kaen,Office Worker,42039,35015,4646,33,3,388,0.83,0,Frequent Late Payments
+CUST0219,Siriporn,36,Khon Kaen,Office Worker,28895,34009,640,9,3,502,1.18,0,Frequent Late Payments
+CUST0220,Jirapha,45,Nakhon Ratchasima,Student,27155,88309,5382,88,2,633,3.25,0,Frequent Late Payments
+CUST0221,Kitti,27,Nakhon Ratchasima,Office Worker,19616,67046,6512,1,0,521,3.42,0,Normal
+CUST0222,Somchai,48,Chiang Mai,Office Worker,46129,31143,1463,10,2,340,0.68,0,Frequent Late Payments
+CUST0223,Somchai,45,Chonburi,Student,48837,11154,7651,49,4,367,0.23,0,Frequent Late Payments
+CUST0224,Wattana,29,Chiang Mai,Student,59072,26804,9064,30,3,813,0.45,0,Frequent Late Payments
+CUST0225,Jirapha,45,Nakhon Ratchasima,Freelancer,33574,46688,4110,55,1,426,1.39,0,Normal
+CUST0226,Somsri,53,Nakhon Ratchasima,Office Worker,12430,69288,7394,78,4,554,5.57,0,Frequent Late Payments
+CUST0227,Kitti,60,Bangkok,Office Worker,21676,56195,7811,72,3,315,2.59,0,Frequent Late Payments
+CUST0228,Siriporn,26,Nakhon Ratchasima,Freelancer,19816,25581,605,86,2,776,1.29,0,Frequent Late Payments
+CUST0229,Somsri,23,Bangkok,Government Officer,41733,57648,6039,82,4,361,1.38,0,Frequent Late Payments
+CUST0230,Jirapha,64,Chonburi,Government Officer,29144,35087,7287,8,3,731,1.2,0,Frequent Late Payments
+CUST0231,Siriporn,30,Chiang Mai,Government Officer,11050,54930,2637,98,0,567,4.97,1,Severe Delinquency
+CUST0232,Wattana,48,Chiang Mai,Freelancer,53460,37981,4945,20,0,334,0.71,0,Normal
+CUST0233,Wattana,55,Bangkok,Office Worker,42933,74298,4030,72,1,793,1.73,0,Normal
+CUST0234,Somchai,44,Chiang Mai,Freelancer,33951,51167,1786,27,3,768,1.51,0,Frequent Late Payments
+CUST0235,Jirapha,40,Nakhon Ratchasima,Freelancer,41413,80304,7552,61,0,624,1.94,0,Normal
+CUST0236,Kitti,55,Khon Kaen,Government Officer,43801,48408,4154,109,2,603,1.11,1,Severe Delinquency
+CUST0237,Siriporn,29,Bangkok,Vendor,41913,44499,7602,114,3,575,1.06,1,Severe Delinquency
+CUST0238,Somsri,56,Chiang Mai,Office Worker,56037,57269,2859,6,2,500,1.02,0,Frequent Late Payments
+CUST0239,Jirapha,28,Bangkok,Government Officer,49600,43559,8605,79,2,744,0.88,0,Frequent Late Payments
+CUST0240,Jirapha,43,Bangkok,Vendor,34280,79319,9136,15,0,623,2.31,0,Normal
+CUST0241,Wattana,54,Khon Kaen,Vendor,33557,53787,6941,96,3,334,1.6,1,Severe Delinquency
+CUST0242,Somchai,54,Nakhon Ratchasima,Student,56054,40488,5547,3,4,781,0.72,0,Frequent Late Payments
+CUST0243,Somchai,55,Bangkok,Office Worker,44400,79441,8727,3,0,779,1.79,0,Normal
+CUST0244,Siriporn,37,Chiang Mai,Vendor,13494,79663,5703,102,0,364,5.9,1,Severe Delinquency
+CUST0245,Wattana,58,Chonburi,Government Officer,24152,27431,2298,39,3,307,1.14,0,Frequent Late Payments
+CUST0246,Jirapha,51,Bangkok,Student,32895,66681,5791,16,3,600,2.03,0,Frequent Late Payments
+CUST0247,Kitti,43,Bangkok,Office Worker,18155,68483,5995,100,2,642,3.77,1,Severe Delinquency
+CUST0248,Wattana,42,Khon Kaen,Freelancer,40883,54153,6784,102,3,730,1.32,1,Severe Delinquency
+CUST0249,Siriporn,51,Nakhon Ratchasima,Government Officer,52194,11368,7785,51,2,723,0.22,0,Frequent Late Payments
+CUST0250,Siriporn,56,Chonburi,Vendor,52001,32424,1800,92,0,631,0.62,1,Severe Delinquency
+CUST0251,Wattana,31,Chiang Mai,Vendor,10828,50004,7369,51,1,737,4.62,0,Normal
+CUST0252,Siriporn,32,Chonburi,Government Officer,54028,88869,9935,35,4,473,1.64,0,Frequent Late Payments
+CUST0253,Wattana,42,Chiang Mai,Vendor,50898,93652,3597,37,0,826,1.84,0,Normal
+CUST0254,Somsri,44,Nakhon Ratchasima,Student,41123,61985,5116,102,3,325,1.51,1,Severe Delinquency
+CUST0255,Wattana,54,Chiang Mai,Office Worker,46573,55069,509,49,4,705,1.18,0,Frequent Late Payments
+CUST0256,Wattana,60,Khon Kaen,Student,9806,57326,6252,62,1,531,5.85,0,Over-indebted
+CUST0257,Siriporn,49,Khon Kaen,Vendor,49970,86061,6795,100,1,832,1.72,1,Severe Delinquency
+CUST0258,Siriporn,36,Khon Kaen,Freelancer,38757,28398,5315,115,2,849,0.73,1,Severe Delinquency
+CUST0259,Somchai,39,Khon Kaen,Office Worker,43636,55861,1572,62,4,804,1.28,0,Frequent Late Payments
+CUST0260,Somchai,44,Chonburi,Office Worker,23561,80897,3725,61,2,478,3.43,0,Frequent Late Payments
+CUST0261,Somsri,41,Nakhon Ratchasima,Government Officer,57280,86905,1816,98,0,431,1.52,1,Severe Delinquency
+CUST0262,Somchai,32,Chiang Mai,Government Officer,33262,73577,6199,6,4,754,2.21,0,Frequent Late Payments
+CUST0263,Wattana,38,Chiang Mai,Freelancer,23899,70641,7307,26,0,647,2.96,0,Normal
+CUST0264,Siriporn,55,Khon Kaen,Office Worker,57988,14078,7174,91,2,839,0.24,1,Severe Delinquency
+CUST0265,Somchai,31,Khon Kaen,Freelancer,24934,30003,4183,85,4,705,1.2,0,Frequent Late Payments
+CUST0266,Somchai,60,Bangkok,Government Officer,47197,67768,7727,13,2,375,1.44,0,Frequent Late Payments
+CUST0267,Somsri,38,Nakhon Ratchasima,Government Officer,50844,56047,3773,70,4,791,1.1,0,Frequent Late Payments
+CUST0268,Jirapha,31,Chonburi,Office Worker,45332,76626,7500,100,2,493,1.69,1,Severe Delinquency
+CUST0269,Somsri,28,Chiang Mai,Student,43157,62660,645,85,1,461,1.45,0,Normal
+CUST0270,Wattana,26,Bangkok,Vendor,20593,54786,5510,4,2,646,2.66,0,Frequent Late Payments
+CUST0271,Siriporn,47,Bangkok,Government Officer,49042,6925,3540,54,1,660,0.14,0,Normal
+CUST0272,Somsri,33,Chiang Mai,Government Officer,58976,88976,982,1,2,386,1.51,0,Frequent Late Payments
+CUST0273,Somchai,50,Chonburi,Student,26320,31015,3679,61,4,561,1.18,0,Frequent Late Payments
+CUST0274,Siriporn,38,Bangkok,Student,36376,38320,1749,90,4,513,1.05,1,Severe Delinquency
+CUST0275,Siriporn,35,Bangkok,Freelancer,52513,69881,1130,20,4,561,1.33,0,Frequent Late Payments
+CUST0276,Somchai,24,Nakhon Ratchasima,Freelancer,23199,95827,9353,117,3,582,4.13,1,Severe Delinquency
+CUST0277,Somsri,54,Chonburi,Vendor,24876,31289,3352,101,0,766,1.26,1,Severe Delinquency
+CUST0278,Somchai,31,Bangkok,Vendor,59948,8389,1487,78,4,679,0.14,0,Frequent Late Payments
+CUST0279,Jirapha,44,Chonburi,Office Worker,17245,30683,8122,20,1,661,1.78,0,Normal
+CUST0280,Siriporn,40,Chiang Mai,Freelancer,16214,18629,7827,9,4,748,1.15,0,Frequent Late Payments
+CUST0281,Kitti,55,Khon Kaen,Government Officer,9726,66550,9341,86,3,740,6.84,0,Frequent Late Payments
+CUST0282,Kitti,42,Bangkok,Freelancer,55600,29826,9660,57,1,392,0.54,0,Normal
+CUST0283,Wattana,35,Nakhon Ratchasima,Government Officer,20362,31630,1600,119,3,723,1.55,1,Severe Delinquency
+CUST0284,Somchai,58,Chiang Mai,Student,27297,51163,7152,38,1,441,1.87,0,Normal
+CUST0285,Somchai,64,Chonburi,Freelancer,39448,71435,9132,4,2,590,1.81,0,Frequent Late Payments
+CUST0286,Wattana,61,Chiang Mai,Student,35172,16653,7921,64,0,731,0.47,0,Normal
+CUST0287,Wattana,58,Bangkok,Vendor,51874,32961,5516,12,0,348,0.64,0,Normal
+CUST0288,Wattana,33,Chonburi,Vendor,16657,86941,1269,84,3,601,5.22,0,Frequent Late Payments
+CUST0289,Siriporn,50,Khon Kaen,Office Worker,27850,79137,1843,89,0,489,2.84,0,Normal
+CUST0290,Jirapha,24,Chiang Mai,Freelancer,34425,38662,4858,113,3,435,1.12,1,Severe Delinquency
+CUST0291,Somchai,54,Bangkok,Student,35685,61446,7280,108,3,703,1.72,1,Severe Delinquency
+CUST0292,Siriporn,42,Nakhon Ratchasima,Government Officer,56319,26288,7102,84,3,640,0.47,0,Frequent Late Payments
+CUST0293,Wattana,48,Chonburi,Vendor,33578,41877,2849,52,0,617,1.25,0,Normal
+CUST0294,Somchai,62,Chiang Mai,Vendor,37831,20313,6199,81,3,662,0.54,0,Frequent Late Payments
+CUST0295,Siriporn,30,Chiang Mai,Government Officer,16906,85885,1741,100,0,681,5.08,1,Severe Delinquency
+CUST0296,Jirapha,37,Khon Kaen,Student,16287,77715,1625,44,3,532,4.77,0,Frequent Late Payments
+CUST0297,Siriporn,31,Khon Kaen,Student,42660,15326,9882,31,4,643,0.36,0,Frequent Late Payments
+CUST0298,Jirapha,28,Nakhon Ratchasima,Freelancer,19222,6560,7264,35,3,848,0.34,0,Frequent Late Payments
+CUST0299,Wattana,29,Nakhon Ratchasima,Freelancer,46443,84148,5601,80,1,828,1.81,0,Normal
